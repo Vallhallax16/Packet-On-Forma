@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDER+07a/TCIEk/ecn6mkON7vU02OrE8NrbC6gfDO4HueucXtQRn9a4KIt2Z1UZkMbjsQcvCnxVpXrQSStzn7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Universidad\\8vo semestre\\Simulacion\\Proyecto individual\\Ganancias Packet-On\\Ganancias Packet-On.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\csvhelper\\32.0.3\\csvhelper.32.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

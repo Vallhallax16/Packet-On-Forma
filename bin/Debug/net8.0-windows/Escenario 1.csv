@@ -1,0 +1,33 @@
+Reporte de escenario 1
+
+Porcentaje de ganancia: 95%
+Salarios y otras variables
+Salario del repartidor:,60000
+Salario del cajero:,62000
+Salario del empaquetador:,58000
+Salario Lic. en TI:,162000
+Renta de bodega:,35000
+Costo del mantenimiento:,22500
+Imprevistos:,16000
+Costo del envío:,15.65
+
+Cantidades
+Numero de cajeros:,16
+Numero de repartidores:,20
+Numero de empaquetadores:,16
+Numero de Lic. en TI:,3
+Numero de bodegas:,5
+Numero de envíos previstos:,250000
+Numero de mantenimientos,6
+
+Gastos fijos
+Renta de oficinas:,45000
+Gastos administrativos:,25600
+Gastos operativos:,25600
+Mantenimiento de la app:,8500
+Página web:,8500
+Renta de oficinas:,14500
+
+"Ganancias netas generadas: ",151472800.00
+"Los envios deben cobrarse en: ",637.78
+"Gastos totales: ",7972200.00

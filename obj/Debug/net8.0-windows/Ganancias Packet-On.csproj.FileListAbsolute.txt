@@ -1,0 +1,22 @@
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\bin\Debug\net8.0-windows\Ganancias Packet-On.exe
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\bin\Debug\net8.0-windows\Ganancias Packet-On.deps.json
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\bin\Debug\net8.0-windows\Ganancias Packet-On.runtimeconfig.json
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\bin\Debug\net8.0-windows\Ganancias Packet-On.dll
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\bin\Debug\net8.0-windows\Ganancias Packet-On.pdb
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias_Packet_On.Vistas.FormaAjustarParametros.resources
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias_Packet_On.Vistas.FormaCalculo.resources
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias_Packet_On.FormaInicial.resources
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.csproj.GenerateResource.cache
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.AssemblyInfoInputs.cache
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.AssemblyInfo.cs
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.csproj.CoreCompileInputs.cache
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.dll
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\refint\Ganancias Packet-On.dll
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.pdb
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.genruntimeconfig.cache
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\ref\Ganancias Packet-On.dll
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias_Packet_On.Properties.Resources.resources
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\bin\Debug\net8.0-windows\CsvHelper.dll
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancias Packet-On.csproj.AssemblyReference.cache
+D:\Universidad\8vo semestre\Simulacion\Proyecto individual\Ganancias Packet-On\obj\Debug\net8.0-windows\Ganancia.FB36C2D6.Up2Date
